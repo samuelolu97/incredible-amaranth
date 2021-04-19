@@ -42,10 +42,7 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+      - text: "The process was rapid\_ fast and efficient , i simply picked a theme and my website was avaialble less than i expected ."
         author:
           name: John Dope
           location: 'Colorado, USA'
