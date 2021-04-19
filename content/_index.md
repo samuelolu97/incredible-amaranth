@@ -50,7 +50,7 @@ sections:
           The website was fast and very responsive .They offer highly
           professional service. I highly recommend
         author:
-          name: Major Payne
+          name: joseph peter
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
