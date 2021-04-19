@@ -6,7 +6,7 @@ price: '100.00'
 order: 6
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
-category: content/category/bigplants.md
+category: content/category/personal.md
 layout: product
 ---
 
