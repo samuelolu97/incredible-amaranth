@@ -1398,7 +1398,7 @@ collections:
         label: Layout
         required: true
         default: product
-      - widget: hidden
+      - widget: string
         name: layout
         label: Layout
         required: true
