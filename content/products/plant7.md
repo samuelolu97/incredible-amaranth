@@ -6,7 +6,7 @@ price: '18.90'
 order: 7
 default_thumbnail_image: images/plant7.jpg
 default_original_image: images/plant7-lg.jpg
-category: content/category/bigplants.md
+category: content/category/blog.md
 layout: product
 ---
 
