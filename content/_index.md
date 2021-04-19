@@ -51,7 +51,6 @@ sections:
           professional service. I highly recommend
         author:
           name: joseph peter
-          location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
     title: Scalable and beautiful websites
