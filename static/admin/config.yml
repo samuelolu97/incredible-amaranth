@@ -1400,7 +1400,7 @@ collections:
         default: product
       - widget: string
         name: demoUrl
-        label: Layout
+        label: demoUrl
         required: true
         default: product
       - widget: markdown
