@@ -33,6 +33,13 @@ sections:
     featured_categories:
       - content/category/blog.md
     title: blogs
+
+     - type: featured_categories_section
+    section_id: featured_categories_section
+    featured_categories:
+      - content/category/blog.md
+    title: blogs
+    
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
