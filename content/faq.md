@@ -52,7 +52,7 @@ sections:
     section_id: contact_section
     image: images/promo.jpg
     address: ILORIN NIGERIA
-    phone: +1-202-555-0112
+    phone: 'WHATSAPP : 08109076441'
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 layout: advanced
