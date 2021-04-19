@@ -58,7 +58,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Scalable and beautiful websites
-    subtitle: from "
+    subtitle: "from #30
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
