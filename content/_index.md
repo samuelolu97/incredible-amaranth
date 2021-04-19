@@ -33,8 +33,7 @@ sections:
     featured_categories:
       - content/category/blog.md
     title: blogs
-
-     - type: featured_categories_section
+   - type: featured_categories_section
     section_id: featured_categories_section2
     featured_categories:
       - content/category/business.md
