@@ -24,7 +24,7 @@ params:
       title: FAQ
       url: /faq
       style: link
-  footer_text: Copyright 2021  Inc. All rights reserved.
+  footer_text: Copyright 2021 Getawebsite Inc. All rights reserved.
 taxonomies:
   stub: stub
 disableKinds:
