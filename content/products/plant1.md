@@ -2,7 +2,7 @@
 id: '1'
 title: planty theme for blog
 description: >-
- a beautiful 
+ a beautiful theme for blog
 price: '49.40'
 order: 1
 default_thumbnail_image: images/plant1.jpg
