@@ -1398,6 +1398,11 @@ collections:
         label: Layout
         required: true
         default: product
+        - widget: hidden
+        name: layout
+        label: Layout
+        required: true
+        default: product
       - widget: markdown
         name: body
         label: Content
