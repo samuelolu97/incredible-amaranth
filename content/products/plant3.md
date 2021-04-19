@@ -6,7 +6,7 @@ price: '150.00'
 order: 3
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
-category: content/category/cactuses.md
+category: content/category/ecommerce.md
 featured: true
 layout: product
 demoUrl: 'https://themes.gohugo.io/theme/hugo-eureka/'
