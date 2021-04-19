@@ -31,25 +31,23 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - content/category/bigplants.md
-      - content/category/cactuses.md
+      - content/category/blog.md
+    title: blogs
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
+      - text: I didn't know the Snipcart guys were into herbs as well! How beautiful is
+          that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
         author:
           name: John Dope
-          location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
+          location: Colorado, USA
+      - text: Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
         author:
           name: Major Payne
-          location: 'VA, USA'
+          location: VA, USA
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
