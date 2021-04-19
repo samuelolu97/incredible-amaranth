@@ -9,6 +9,7 @@ default_original_image: images/plant3-lg.jpg
 category: content/category/cactuses.md
 featured: true
 layout: product
+demoUrl: 'https://themes.gohugo.io/theme/hugo-eureka/'
 ---
 
 # Curabitur eu tempor
