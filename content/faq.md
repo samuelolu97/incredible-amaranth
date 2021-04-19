@@ -54,6 +54,7 @@ sections:
     address: ILORIN NIGERIA
     phone: 'WHATSAPP : 08109076441'
     email: samuelolugbenga97@gmail.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: >-
+      https://www.google.com/maps/place/Ilorin/@8.4783505,4.4849152,12z/data=!3m1!4b1!4m5!3m4!1s0x1036528d9c605049:0xf59fa28215d71df1!8m2!3d8.4798786!4d4.5418141
 layout: advanced
 ---
