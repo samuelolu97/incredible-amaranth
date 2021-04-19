@@ -45,8 +45,7 @@
                 {{ $include_dict = dict "product_page" . }}
                 {{ partial "buy_button.html" $include_dict }}
                 {{ if .Params.demoUrl}}
-                <div styles
-                 = " colo">
+                <div style = " colo">
                     <a href="{{.Params.demoUrl }}">Demo</a>
                 </div>
 
