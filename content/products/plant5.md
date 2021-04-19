@@ -8,7 +8,7 @@ price: '220.00'
 order: 5
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
-category: content/category/bigplants.md
+category: content/category/personal.md
 featured: true
 layout: product
 ---
