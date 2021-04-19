@@ -60,7 +60,7 @@ sections:
     title: Scalable and beautiful websites
     subtitle: 'from  #30,000'
     image: /images/pexels-tima-miroshnichenko-5380596.jpg
-    background_image: /images/pexels-christina-morillo-1181244.jpg
+    background_image: /images/magical-tiger.jpg
     cta:
       type: action
       title: Discover
