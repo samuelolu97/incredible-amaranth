@@ -47,8 +47,8 @@ sections:
           name: John ola
           location: 'Ibadan , Nigeria'
       - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          The website was fast and very responsive .They offer highly
+          professional service. I highly recommend
         author:
           name: Major Payne
           location: 'VA, USA'
