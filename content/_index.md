@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/pexels-cottonbro-5483077.jpg
     background_image_opacity: 65
     content: |
       # Let us create beautiful and functional websites for you
@@ -33,32 +33,32 @@ sections:
     featured_categories:
       - content/category/blog.md
     title: blogs
-
   - type: featured_categories_section
     section_id: featured_categories_section2
     featured_categories:
       - content/category/business.md
     title: business websites
-
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - text: I didn't know the Snipcart guys were into herbs as well! How beautiful is
-          that Planty theme. I'm going to launch a killer JAMstack e-commerce
+      - text: >-
+          I didn't know the Snipcart guys were into herbs as well! How beautiful
+          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
         author:
           name: John Dope
-          location: Colorado, USA
-      - text: Well I'll be d*mned. These plants really ARE greener than any of my
+          location: 'Colorado, USA'
+      - text: >-
+          Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
         author:
           name: Major Payne
-          location: VA, USA
+          location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
     title: Scalable and beautiful websites
-    subtitle: "from  #30,000"
+    subtitle: 'from  #30,000'
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
