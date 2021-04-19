@@ -6,7 +6,7 @@ price: '50.00'
 order: 8
 default_thumbnail_image: images/plant8.jpg
 default_original_image: images/plant8-lg.jpg
-category: content/category/summer.md
+category: content/category/a.md
 layout: product
 ---
 
