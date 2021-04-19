@@ -34,6 +34,6 @@ sections:
           through free content and tools, like this theme. We also believe [the
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
-        image: images/team.jpg
+        image: /images/pexels-ovan-57690.jpg
 layout: advanced
 ---
