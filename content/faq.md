@@ -50,7 +50,7 @@ sections:
           useful products with people we love feels meaningful enough.
   - type: contact_section
     section_id: contact_section
-    image: images/promo.jpg
+    image: /images/pexels-pixabay-39284.jpg
     address: ILORIN NIGERIA
     phone: 'WHATSAPP : 08109076441'
     email: samuelolugbenga97@gmail.com
