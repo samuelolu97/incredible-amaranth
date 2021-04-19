@@ -4,7 +4,7 @@ params:
   snipcart_api_key: 'ZjE3ZTU5YTQtYWNjOS00NjNkLTg2YjktYjU5MDFiZGNmNGY1NjM3NTQ0MjMwNjYyODA2ODUx '
   favicon: images/favicon.png
   logo_light: /images/Add a heading (1).png
-  logo_dark: images/logo.svg
+  logo_dark: /images/wonderful-coriander.png
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
   bg_image_primary_opacity: 60
