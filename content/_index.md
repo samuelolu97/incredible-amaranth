@@ -59,7 +59,7 @@ sections:
     section_id: promotion_section
     title: Scalable and beautiful websites
     subtitle: 'from  #30,000'
-    image: images/promo.jpg
+    image: /images/pexels-tima-miroshnichenko-5380596.jpg
     background_image: images/leaf.svg
     cta:
       type: action
