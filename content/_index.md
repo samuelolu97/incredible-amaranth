@@ -35,7 +35,7 @@ sections:
     title: blogs
 
      - type: featured_categories_section
-    section_id: featured_categories_section
+    section_id: featured_categories_section2
     featured_categories:
       - content/category/business.md
     title: business websites
