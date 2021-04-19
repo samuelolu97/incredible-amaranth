@@ -38,7 +38,7 @@ sections:
     section_id: featured_categories_section
     featured_categories:
       - content/category/business.md
-    title: blogs
+    title: business websites
 
   - type: testimonials_section
     section_id: testimonials_section
