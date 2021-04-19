@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     address: ILORIN NIGERIA
     phone: 'WHATSAPP : 08109076441'
-    email: geeks@snipcart.com
+    email: samuelolugbenga97@gmail.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 layout: advanced
 ---
