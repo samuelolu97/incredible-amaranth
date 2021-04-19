@@ -1399,7 +1399,7 @@ collections:
         required: true
         default: product
       - widget: string
-        name: layout
+        name: demoUrl
         label: Layout
         required: true
         default: product
