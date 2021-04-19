@@ -19,5 +19,14 @@
         {{ end }}
         <span class="product-grid__price"> ${{ $product_page.Params.price }} </span>
         
+         {{ if .Params.demoUrl}}
+                <div style = "margin-top:20px;background-color: #80ed9a;padding:10px;
+                border-radius:5%;font-weight: bold; color:white;
+                font-size:29;text-align:center;width:50%;">
+                    <a href="{{.Params.demoUrl }}">Demo</a>
+                </div>
+
+                {{end}}
+                
     </div>
 </li>
