@@ -44,7 +44,7 @@ sections:
     testimonials:
       - text: "The process was rapid\_ fast and efficient , i simply picked a theme and my website was avaialble less than i expected ."
         author:
-          name: John Dope
+          name: John ola
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
