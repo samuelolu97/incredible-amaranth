@@ -51,6 +51,7 @@ sections:
           professional service. I highly recommend
         author:
           name: joseph peter
+          location: 'Abuja , Nigeria'
   - type: promotion_section
     section_id: promotion_section
     title: Scalable and beautiful websites
