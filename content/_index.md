@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: /images/pexels-cottonbro-5483077.jpg
+    background_image: /images/pexels-tima-miroshnichenko-5380596.jpg
     background_image_opacity: 65
     content: |
       # Let us create beautiful and functional websites for you
