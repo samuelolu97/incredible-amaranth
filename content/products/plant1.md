@@ -15,9 +15,6 @@ featured: true
 demoUrl: https://themes.gohugo.io/theme/hugo-theme-dream/
 ---
 
-
-
----
 # samuel olugbrenga
 
 enjoy the flexibility and functionality of a well made theme
