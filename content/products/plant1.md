@@ -9,4 +9,5 @@ default_original_image: images/plant1-lg.jpg
 category: content/category/blog.md
 layout: product
 featured: true
+demoUrl: https://themes.gohugo.io/theme/hugo-theme-dream/
 ---
