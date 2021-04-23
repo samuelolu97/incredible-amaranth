@@ -12,3 +12,5 @@ content/category/blog.md
 true
 product
 https://themes.gohugo.io/theme/hugo-theme-dream/
+
+---
