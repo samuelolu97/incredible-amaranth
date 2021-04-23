@@ -16,7 +16,7 @@ layout: product
 featured: true
 demoUrl: https://themes.gohugo.io/theme/hugo-theme-dream/
 ---
-=======
+
 demoUrl: https://themes.gohugo.io/theme/hugo-theme-dream/
 
 ---
