@@ -1,16 +1,11 @@
-
 ---
-id	title	description	price	order	default_thumbnail_image	default_original_image	category	featured	layout	demoUrl
-1
-planty theme for blogeeeeeer
-a beautiful theme for blog
-100
-1
-images/plant1.jpg
-images/plant1-lg.jpg
-content/category/blog.md
-true
-product
-https://themes.gohugo.io/theme/hugo-theme-dream/
-
+id: '4'
+title: Cras molestie
+description: Maecenas pretium blandit ex id lobortis.
+price: '24.99'
+order: 4
+default_thumbnail_image: images/plant4.jpg
+default_original_image: images/plant4-lg.jpg
+category: content/category/ecommerce.md
+layout: product
 ---
