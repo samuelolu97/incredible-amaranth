@@ -1,10 +1,6 @@
 ---
 <<<<<<< HEAD
-id: '1'
-title: planty theme for blogeeeeeer
-description: a beautiful theme for blog
-price: '100'
-order: 1
+
 =======
 id: "1"
 title: planty theme for blogeeeeeer
