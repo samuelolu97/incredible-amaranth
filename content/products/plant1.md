@@ -1,7 +1,7 @@
 ---
 id: '1'
 title: planty theme for blogeeeeeer
-description: Maecenas pretium blandit ex id lobortis.
+description: a beautiful theme for blog
 price: '24.99'
 order: 4
 default_thumbnail_image: images/plant4.jpg
